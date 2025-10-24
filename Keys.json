@@ -12,9 +12,9 @@
     {
       "key": "ownerboss",
       "device_id": "0f7037a5-29a6-4b77-b470-86d3230bc5f1", 
-      "expiry_date": "2025-12-30",
-      "active": true,
-      "status": "active",
+      "expiry_date": "2025-10-24",
+      "active": false,
+      "status": "inactive",
       "created_date": "2025-10-24",
       "max_devices": 1
     },
