@@ -13,7 +13,7 @@
       "key": "sthasan",
       "device_id": "e7bc9fd7-a1a0-445d-a640-89b8d0b86ede", 
       "expiry_date": "2026-10-29",
-      "active": false,
+      "active": true,
       "status": "active",
       "created_date": "2025-10-29",
       "max_devices": 1
