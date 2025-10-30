@@ -18,6 +18,15 @@
       "created_date": "2025-10-29",
       "max_devices": 1
     },
+        {
+      "key": "stnime",
+      "device_id": "3b6a5fc1-ee07-43b2-a0c6-41e55c58326c", 
+      "expiry_date": "2026-10-30",
+      "active": true,
+      "status": "active",
+      "created_date": "2025-10-30",
+      "max_devices": 1
+    },
     {
       "key": "TEST-0000-DEMO-1111",
       "device_id": "",
