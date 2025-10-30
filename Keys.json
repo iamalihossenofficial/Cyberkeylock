@@ -2,11 +2,11 @@
   "licenses": [
     {
       "key": "stbsb",
-      "device_id": "f41f9dec-c555-43e2-b888-76cd1d0ae6f9",
-      "expiry_date": "2026-12-05",
+      "device_id": "961d64c0-d44a-4f7c-ac29-66579d48218c",
+      "expiry_date": "2026-12-30",
       "active": true,
       "status": "active",
-      "created_date": "2025-10-24",
+      "created_date": "2025-10-30",
       "max_devices": 1
     },
     {
